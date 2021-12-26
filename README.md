@@ -6,7 +6,9 @@ This iCalendar/ICS version of the Sri Lanka Holidays Calendar is based on the ca
 | ---- | ---- | ---- |
 | 2022 | 1.0 | [Download](https://github.com/mot-srilanka/srilanka-holidays-calendar/raw/main/Sri%20Lanka%20Holidays%20Calendar%202022%20-%201.0.zip)  | 
 
+## How-To Use
 
+You may use any calendar software application in your desktop, mobile or web-email-client to import the iCalendar/ICS file.
 
 ## Contributions
 
