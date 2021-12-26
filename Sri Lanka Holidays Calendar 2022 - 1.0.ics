@@ -1,0 +1,501 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sri Lanka Holidays Calendar 2022
+X-WR-TIMEZONE:Asia/Colombo
+X-WR-CALDESC:Based on the official Sri Lanka Desk Calendar 2022 issued by t
+ he Ministry of Home Affairs under the Holidays Act.
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+DTSTAMP:20211226T223848Z
+UID:4mphaqr2ep2ri5vtfgpo8sekdb@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+ \n‡ Mercantile Holiday\n\n\nPublic Holidays are also applicable to the Post
+ al\, Customs and Meteorological Departments. Changes in Public Holidays wil
+ l be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T093814Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Tamil Thai Pongal Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220117
+DTEND;VALUE=DATE:20220118
+DTSTAMP:20211226T223848Z
+UID:3a0seivhgpbmojotv9jul7gj8r@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday\n\n\nPublic Hol
+ idays are also applicable to the Postal\, Customs and Meteorological Depart
+ ments. Changes in Public Holidays will be announced by Notification in the 
+ Government Gazette.\n\nFull Moon Poya Holidays approved by the Poya Committ
+ ee. These days are common Holidays applicable to all employees.
+LAST-MODIFIED:20211226T130727Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Duruthu Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+DTSTAMP:20211226T223848Z
+UID:1essh33t2jdrr7bire8g9o1mbo@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+ \n‡ Mercantile Holiday\n\n\nPublic Holidays are also applicable to the Post
+ al\, Customs and Meteorological Departments. Changes in Public Holidays wil
+ l be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T130737Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Independence Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220217
+DTSTAMP:20211226T223848Z
+UID:7m1r08n2gqgla4gjua8jknd8b2@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday              \n† Bank Holiday\n\n\nPublic Holi
+ days are also applicable to the Postal\, Customs and Meteorological Departm
+ ents. Changes in Public Holidays will be announced by Notification in the G
+ overnment Gazette.\n\nFull Moon Poya Holidays approved by the Poya Committe
+ e. These days are common Holidays applicable to all employees.
+LAST-MODIFIED:20211226T130801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nawam Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220317
+DTEND;VALUE=DATE:20220318
+DTSTAMP:20211226T223848Z
+UID:1nmn4tmktpbthdjdl0vt57k64a@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20211226T130839Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Madin Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220413
+DTEND;VALUE=DATE:20220414
+DTSTAMP:20211226T223848Z
+UID:1fogoshfqheii42bed6tcthohr@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n‡ Mercantile Holiday \n\n\nPublic Holidays are also applicable to the Po
+ stal\, Customs and Meteorological Departments. Changes in Public Holidays w
+ ill be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T131054Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day Prior to Sinhala and Tamil New Year Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220415
+DTSTAMP:20211226T223848Z
+UID:7jf2up36agb8p0bg06va75so9b@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holidays               \n† Bank Holidays              
+    \n‡ Mercantile Holidays \n\n\nPublic Holidays are also applicable to the
+  Postal\, Customs and Meteorological Departments. Changes in Public Holiday
+ s will be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T131105Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sinhala and Tamil New Year Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+DTSTAMP:20211226T223848Z
+UID:7sq923l3iprtujk82uk8mj4pol@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday             \n† Bank Holiday\n\n\nPublic Holid
+ ays are also applicable to the Postal\, Customs and Meteorological Departme
+ nts. Changes in Public Holidays will be announced by Notification in the Go
+ vernment Gazette.
+LAST-MODIFIED:20211226T131116Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220416
+DTEND;VALUE=DATE:20220417
+DTSTAMP:20211226T223848Z
+UID:23l5s6rjvsr080p8l08s7j6kdk@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday            \n† Bank Holiday\n\n\nPublic Holida
+ ys are also applicable to the Postal\, Customs and Meteorological Departmen
+ ts. Changes in Public Holidays will be announced by Notification in the Gov
+ ernment Gazette.\n\nFull Moon Poya Holidays approved by the Poya Committee.
+  These days are common Holidays applicable to all employees.
+LAST-MODIFIED:20211226T131133Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bak Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220502
+DTSTAMP:20211226T223848Z
+UID:1lgklvdl0n71ssqeqaat30n92e@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday              \n† Bank Holiday                \
+ n‡ Mercantile Holiday\n \n\nPublic Holidays are also applicable to the Post
+ al\, Customs and Meteorological Departments. Changes in Public Holidays wil
+ l be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T131149Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:May Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
+DTSTAMP:20211226T223848Z
+UID:608ksmuhpieblu6q6jng6binfj@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:† Bank Holiday
+LAST-MODIFIED:20211226T131157Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Additional Bank Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220503
+DTEND;VALUE=DATE:20220504
+DTSTAMP:20211226T223848Z
+UID:022j4gdc3s115nrjphkc9b6e2f@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.
+LAST-MODIFIED:20211226T131209Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Id-Ul-Fitr (Ramazan Festival Day)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220515
+DTEND;VALUE=DATE:20220516
+DTSTAMP:20211226T223848Z
+UID:5frpgqil5h59q7ok4iqt4ne7i0@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T131225Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vesak Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220516
+DTEND;VALUE=DATE:20220517
+DTSTAMP:20211226T223848Z
+UID:1vnhs9hfjqkv1op8prgfgvisj0@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n‡ Mercantile Holiday\n\n\nPublic Holidays are also applicable to the Pos
+ tal\, Customs and Meteorological Departments. Changes in Public Holidays wi
+ ll be announced by Notification in the Government Gazette.\n\nFull Moon Poy
+ a Holidays approved by the Poya Committee. These days are common Holidays a
+ pplicable to all employees.
+LAST-MODIFIED:20211226T131247Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day Following Vesak Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220614
+DTEND;VALUE=DATE:20220615
+DTSTAMP:20211226T223848Z
+UID:6e3ls3dus1cnteodmi48qh1vdu@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\nPublic Holidays are also applicable to the Postal\, Customs and Meteor
+ ological Departments. Changes in Public Holidays will be announced by Notif
+ ication in the Government Gazette.\n\nFull Moon Poya Holidays approved by t
+ he Poya Committee. These days are common Holidays applicable to all employe
+ es.
+LAST-MODIFIED:20211226T131300Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Poson Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220710
+DTEND;VALUE=DATE:20220711
+DTSTAMP:20211226T223848Z
+UID:515j5str0cvq6ps7k5hqusihe2@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\nPublic Holidays are also applicable to the Postal\, Customs and Meteor
+ ological Departments. Changes in Public Holidays will be announced by Notif
+ ication in the Government Gazette.\n\nFull Moon Poya Holidays approved by t
+ he Poya Committee. These days are common Holidays applicable to all employe
+ es.
+LAST-MODIFIED:20211226T131318Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Id-Ul-Alha (Hadji Festival Day)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220713
+DTEND;VALUE=DATE:20220714
+DTSTAMP:20211226T223848Z
+UID:00mf3kdae7s48rhii8pf1rjer4@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\nPublic Holidays are also applicable to the Postal\, Customs and Meteor
+ ological Departments. Changes in Public Holidays will be announced by Notif
+ ication in the Government Gazette.\n\nFull Moon Poya Holidays approved by t
+ he Poya Committee. These days are common Holidays applicable to all employe
+ es.
+LAST-MODIFIED:20211226T131329Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Esala Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220811
+DTEND;VALUE=DATE:20220812
+DTSTAMP:20211226T223848Z
+UID:730p5j5plufuobq6db1kd50p8n@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T131357Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nikini Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220911
+DTSTAMP:20211226T223848Z
+UID:2bbl4hdnierpgaco04mnciord1@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T131410Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Binara Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221009
+DTEND;VALUE=DATE:20221010
+DTSTAMP:20211226T223848Z
+UID:2gnhfqthj8cveuqklt45vkpjkq@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n‡ Mercantile Holiday\n \n\nPublic Holidays are also applicable to the Po
+ stal\, Customs and Meteorological Departments. Changes in Public Holidays w
+ ill be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T131441Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Milad-Un-Nabi (Holy Prophet’s Birthday)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221010
+DTEND;VALUE=DATE:20221011
+DTSTAMP:20211226T223848Z
+UID:0m5j7nrloitvltp29dhaui2h2s@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:† Bank Holiday
+LAST-MODIFIED:20211226T131448Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Additional Bank Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221024
+DTEND;VALUE=DATE:20221025
+DTSTAMP:20211226T223848Z
+UID:1ssdq70loqu5oarpupaka0kafp@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.
+LAST-MODIFIED:20211226T131521Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deepavali Festival Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221107
+DTEND;VALUE=DATE:20221108
+DTSTAMP:20211226T223848Z
+UID:2q0htuicrig70c0vphaitnjljt@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T131609Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:IL Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221207
+DTEND;VALUE=DATE:20221208
+DTSTAMP:20211226T223848Z
+UID:3v99km1p9fr5k6tujekcqrt7f6@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T131629Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Unduvap Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221225
+DTEND;VALUE=DATE:20221226
+DTSTAMP:20211226T223848Z
+UID:2jmsapje1gi2v4ms2388prjk5a@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n‡ Mercantile Holiday\n\n\nPublic Holidays are also applicable to the Pos
+ tal\, Customs and Meteorological Departments. Changes in Public Holidays wi
+ ll be announced by Notification in the Government Gazette.
+LAST-MODIFIED:20211226T131811Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221227
+DTSTAMP:20211226T223848Z
+UID:2meg5iu980iddm8g0769r7ff4g@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:† Bank Holiday
+LAST-MODIFIED:20211226T131818Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Additional Bank Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221009
+DTEND;VALUE=DATE:20221010
+DTSTAMP:20211226T223848Z
+UID:7gkktomjsb8jfglhu4qhi9m9p1@google.com
+CREATED:20211223T071326Z
+DESCRIPTION:* Public Holiday               \n† Bank Holiday                
+  \n\n\nPublic Holidays are also applicable to the Postal\, Customs and Mete
+ orological Departments. Changes in Public Holidays will be announced by Not
+ ification in the Government Gazette.\n\nFull Moon Poya Holidays approved by
+  the Poya Committee. These days are common Holidays applicable to all emplo
+ yees.
+LAST-MODIFIED:20211226T134551Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vap Full Moon Poya Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+DTSTAMP:20211226T223848Z
+UID:6k8p9ui6paqae68srqrsi05ua1@google.com
+CREATED:20211226T221018Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.
+LAST-MODIFIED:20211226T223414Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maha Sivarathri Day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
